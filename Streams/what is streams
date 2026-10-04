@@ -1,0 +1,2 @@
+Java Streams are a feature introduced in Java 8 that provide a functional, declarative way to process sequences of elements from sources like collections, arrays, or I/O channels
+Collections -> streams -> functional and declaritive process.
